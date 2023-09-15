@@ -1,3 +1,5 @@
+package week1git;
+
 import org.w3c.dom.ls.LSOutput;
 
 public class Multiples {
